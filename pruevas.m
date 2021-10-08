@@ -1,16 +1,16 @@
 %Octave Script
-%title                 : Resolución de Inecuaciones 
+%title                 : ResoluciÃ³n de Inecuaciones 
 %Decription     : Script para llevar a cabo la solucion de tres inecuaciones 
-%Authors          : Ernesto Archundia Motiel (archudia), 
+%Authors          : Ernesto Archundia Motiel, NEFTALI BARRALES GARCIA
 %Date               : 20211007
 %Version          : 1
 %Usage            : octave >/path/Inecuaciones
-%Notes            : Requiere apicación octave, usar su linea de comandos
+%Notes            : Requiere apicaciÃ³n octave, usar su linea de comandos
 
 pkg load symbolic
 syms x
 
-% Inecuación De Primer Grado 
+% InecuaciÃ³n De Primer Grado 
 disp ('Inecuacion de primer grado'); 
 syms x 
 solve(x<-12) 
