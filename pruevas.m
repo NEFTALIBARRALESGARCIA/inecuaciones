@@ -1,7 +1,7 @@
 %Octave Script
 %title                 : Resolución de Inecuaciones 
 %Decription     : Script para llevar a cabo la solucion de tres inecuaciones 
-%Authors          : Ernesto Archundia Motiel, NEFTALI BARRALES GARCIA
+%Authors          : Ernesto Archundia Motiel, NEFTALI BARRALES GARCIA, Felipe de Jesús Atenojenes Feliciano
 %Date               : 20211007
 %Version          : 1
 %Usage            : octave >/path/Inecuaciones
